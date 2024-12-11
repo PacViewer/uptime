@@ -19,6 +19,8 @@ status-website:
   name: Pacviewer Status
   introTitle: "**Pacviewer** status to check the website and API service status"
   theme: night
+  favicon: https://raw.githubusercontent.com/PacViewer/uptime/refs/heads/master/static/img/logo.png
+  faviconSvg: https://raw.githubusercontent.com/PacViewer/uptime/refs/heads/master/static/img/logo.svg
   navbar:
     - title: Home
       href: https://pacviewer.com
