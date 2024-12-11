@@ -9,9 +9,9 @@ sites:
   - name: Pacviewer Beta
     url: https://beta.pacviewer.com
   - name: Pacviewer API
-    url: https://api.pacviewer.com
+    url: https://api.pacviewer.com/livez
   - name: Pacviewer Beta API
-    url: https://beta-api.pacviewer.com
+    url: https://beta-api.pacviewer.com/livez
 
 status-website:
   cname: status.pacviewer.com
