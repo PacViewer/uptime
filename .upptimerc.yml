@@ -17,12 +17,14 @@ status-website:
   cname: status.pacviewer.com
   logoUrl: https://raw.githubusercontent.com/PacViewer/uptime/refs/heads/master/static/img/logo.svg
   name: Pacviewer Status
-  introTitle: "**Pacviewer** status to check website and api service status"
+  introTitle: "**Pacviewer**status to check the website and API service status"
   navbar:
+    - title: Home
+      href: https://pacviewer.com
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Updates
+      href: https://linktr.ee/pacviewer
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
