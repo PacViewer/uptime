@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 475,
-    "timeDay": 464,
-    "timeWeek": 465,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "time": 482,
+    "timeDay": 656,
+    "timeWeek": 509,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2024-12-11": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 494,
-    "timeDay": 462,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 501,
+    "timeDay": 659,
+    "timeWeek": 522,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2024-12-11": 20
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 526,
-    "timeDay": 525,
-    "timeWeek": 535,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 534,
+    "timeDay": 711,
+    "timeWeek": 561,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2024-12-11": 20
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pacviewer.com.ico",
     "slug": "pacviewer-api",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 391,
-    "timeDay": 338,
-    "timeWeek": 366,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 398,
+    "timeDay": 547,
+    "timeWeek": 391,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2024-12-11": 21
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta-api.pacviewer.com.ico",
     "slug": "pacviewer-beta-api",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 395,
-    "timeDay": 350,
-    "timeWeek": 373,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 398,
+    "timeDay": 481,
+    "timeWeek": 389,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2024-12-11": 21
     }
