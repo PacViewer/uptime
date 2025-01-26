@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 512,
-    "timeDay": 463,
-    "timeWeek": 579,
-    "timeMonth": 536,
-    "timeYear": 512,
+    "time": 511,
+    "timeDay": 465,
+    "timeWeek": 545,
+    "timeMonth": 535,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2024-12-11": 20
     }
@@ -32,8 +32,8 @@
     "uptimeYear": "99.97%",
     "time": 536,
     "timeDay": 517,
-    "timeWeek": 665,
-    "timeMonth": 563,
+    "timeWeek": 648,
+    "timeMonth": 564,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2024-12-11": 20
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.pacviewer.com.ico",
     "slug": "pacviewer-beta",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 587,
-    "timeDay": 441,
-    "timeWeek": 601,
-    "timeMonth": 625,
-    "timeYear": 587,
+    "uptime": "99.27%",
+    "uptimeDay": "68.00%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.27%",
+    "time": 582,
+    "timeDay": 338,
+    "timeWeek": 554,
+    "timeMonth": 619,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-01-25": 0,
+      "2025-01-26": 52,
+      "2025-01-25": 408,
       "2024-12-11": 20
     }
   },
@@ -71,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 393,
-    "timeDay": 374,
-    "timeWeek": 418,
-    "timeMonth": 389,
-    "timeYear": 393,
+    "time": 392,
+    "timeDay": 334,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2024-12-11": 21
     }
@@ -91,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 393,
-    "timeDay": 371,
-    "timeWeek": 420,
-    "timeMonth": 387,
-    "timeYear": 393,
+    "time": 392,
+    "timeDay": 325,
+    "timeWeek": 398,
+    "timeMonth": 386,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2024-12-11": 21
     }
