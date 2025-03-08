@@ -1,7 +1,7 @@
 url: https://api.pacviewer.com/livez
-status: down
-code: 502
-responseTime: 1325
-lastUpdated: 2025-03-08T13:57:27.412Z
+status: up
+code: 200
+responseTime: 636
+lastUpdated: 2025-03-08T14:16:07.368Z
 startTime: 2024-12-11T11:21:19.058Z
 generator: Upptime <https://github.com/upptime/upptime>
