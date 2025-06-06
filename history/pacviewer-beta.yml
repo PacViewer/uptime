@@ -1,7 +1,7 @@
 url: https://beta.pacviewer.com
-status: up
-code: 200
-responseTime: 500
-lastUpdated: 2025-06-05T23:25:24.175Z
+status: down
+code: 502
+responseTime: 14781
+lastUpdated: 2025-06-06T08:35:05.710Z
 startTime: 2024-12-11T11:21:16.668Z
 generator: Upptime <https://github.com/upptime/upptime>
